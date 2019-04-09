@@ -1,0 +1,19 @@
+{% extends "master.html" %}
+{% block title %}Results{% endblock %}
+
+
+
+{% block content %}
+    <h1 class="text-center">Result</h1>
+        
+                {% if classification_result == 1 %}
+                <label for="mobile">The customer is likely to respond to this offer</label>
+                {% else %}
+                <label for="mobile">The customer is not likely to respond to this offer</label>
+                {% endif %}
+         
+
+        </div>
+    </div>
+
+{% endblock %}
