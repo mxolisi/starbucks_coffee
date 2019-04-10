@@ -20,9 +20,9 @@ This project seeks match potential Starbucks members to the offers on the Starbu
 1. python 3.7
 2. Jupyter notebook
 3. Libraries :
-    3.1 pandas
-    3.2 sklearn
-    3.3 Flask
+    - 3.1 pandas
+    - 3.2 sklearn
+    - 3.3 Flask
 
 ## Built With
 
